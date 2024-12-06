@@ -1,5 +1,5 @@
-Dans ce dépot je vous présent des mini projets qui m'ont permit de mettre en pratique mes acquis  et ainsi de solidifier mes bases en python allant de l'utilisation  
-des diférents types natifs, des structures de controlle des données au fonction.
+Dans ce dépot je vous présente des mini projets qui m'ont permit de mettre en pratique mes acquis et ainsi de solidifier mes bases en python allant de l'utilisation  
+des différents types natifs, des structures de controlle des données aux fonctions.
 
 1.le jeu du pendu 
 Objectif du jeu :
