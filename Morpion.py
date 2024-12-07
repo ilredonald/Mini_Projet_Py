@@ -39,7 +39,7 @@ joueur = "Joueur 1"
 #grille()
 while True:
     choix = int(input(f'--: {joueur} :-- choisir un numéro [1-9]: '))
-    if choix in range(1, 10) :
+    if choix in range(1, 10):
         colonne = (choix - 1) % 3
         ligne = (choix - 1) // 3
         if  grille[ligne][colonne] == ' . ':
